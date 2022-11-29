@@ -60,6 +60,8 @@ Now that we are at the right version, we need to extract frida-gum (https://gith
 2 directories, 10 files
 ```
 
+libfrida-gum.a and frida-gum.h is the same as in x86 (compiling here for x86_64)
+
 All that’s left for us to do is build AFL++ from the working directory with the following command:
 ```
 mmm afl++
