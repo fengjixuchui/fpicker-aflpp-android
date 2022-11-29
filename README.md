@@ -1,4 +1,4 @@
-# fpicker-mod
+# fpicker-aflpp-android
 
 ![aflplusplus-fpicker](https://user-images.githubusercontent.com/20355405/204588017-a065943c-03de-4340-87a1-620358bdef12.png)
 
