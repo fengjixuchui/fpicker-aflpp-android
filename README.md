@@ -36,7 +36,7 @@ make fpicker-linux
 
 Already precompiled (adjust Makefile when need to compile)
 
-## AFL++ for Android AOSP
+## AFL++ for Android AOSP (modified for fpicker)
 
 After AOSP compilation we should copy afl++ to the working directory (root of AOSP)
 
