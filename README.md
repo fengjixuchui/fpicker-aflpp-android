@@ -6,6 +6,8 @@ In the past used it to refind Stagefright bug CVE 2020-0411 within hours (severa
 
 Tested 29/11/2022 on Android 12 x86_64 (think x86) in emulator (docker) on x86_64 host
 
+You can run this on Device or Emulator (x86, x86_64 or arm, aarch64)
+
 With docker there are some space issues, on Android Emulator from Android Studio you can eaisly resize 
 
 # WARNING: You can adjust all the paths other than /data/local/tmp/re.frida.server and /mnt/scratch/libandroid-shmem.so (otherwise you need to modify components)
