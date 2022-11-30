@@ -28,7 +28,7 @@ make
 make libandroid-shmem.so
 ```
 
-## Fpicker
+## Fpicker (modified)
 
 copy devkit to  libfrida-core-linux.a
 ```
